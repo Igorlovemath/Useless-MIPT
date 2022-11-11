@@ -1,0 +1,2 @@
+5 cat ok.txt
+1 cat ok.txt
